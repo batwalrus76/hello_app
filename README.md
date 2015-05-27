@@ -1,2 +1,2 @@
 # hello_app
-Rails tutorial
+Rails tutorial based on the online book
